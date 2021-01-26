@@ -1,2 +1,0 @@
-*Vanessa Mususue*
-**Holberton School**
